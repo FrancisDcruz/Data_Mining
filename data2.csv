@@ -1,0 +1,20 @@
+milk,yoghurt,cheese,butter,icecream,cream
+milk,icecream
+icecream,cream
+cheese,milk,icecream,
+cheese,butter,yoghurt,milk
+yoghurt,milk ,cheese,icecream,butter
+yoghurt
+cheese,butter
+butter,cream
+milk,cheese,butter,icecream
+milk
+cheese,butter
+cream,butter,milk
+icecream,milk,cheese,butter,yoghurt
+butter
+cream,milk,cheese,yoghurt
+milk,yoghurt
+cream,cheese,milk,cheese
+yoghurt,milk,butter,cheese
+cheese,cream
